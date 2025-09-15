@@ -127,16 +127,6 @@ To train the blunder prediction models follow these instructions:
 5. Select a config from `blunder_prediction/configs` and update the paths
 6. Run `blunder_prediction/train_model.py CONFIG_PATH
 
-## Citation
-
-```
-@inproceedings{mcilroyyoung2020maia,
-  title={Aligning Superhuman AI with Human Behavior: Chess as a Model System},
-  author={McIlroy-Young, Reid and  Sen, Siddhartha and Kleinberg, Jon and Anderson, Ashton},
-  year={2020},
-  booktitle={Proceedings of the 25th ACM SIGKDD international conference on Knowledge discovery and data mining}
-}
-```
 
 ## License
 
