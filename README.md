@@ -143,3 +143,7 @@ To train the blunder prediction models follow these instructions:
 The software is available under the GPL License.
 
 Please email [Swapneel layek](https://swapneellayek.netlify.app/) to get in touch.
+
+## Contact
+
+Please [open an issue](https://github.com/CSSLab/maia-chess/issues/new) or email [Swapneel layek](https://swapneellayek.netlify.app/) to get in touch.
